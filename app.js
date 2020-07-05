@@ -33,20 +33,20 @@
         var service = this;
         var itemsToBuy = [
             {
-                itemName : "cookies",
+                itemName : "Cookies",
                 itemQuantity : "10"
             },
             {
-                itemName : "soda",
+                itemName : "Milk",
                 itemQuantity : "2"
             },
             {
-                itemName : "meat",
-                itemQuantity : "10"
+                itemName : "Donuts",
+                itemQuantity : "3"
             },
             {
-                itemName : "pingles",
-                itemQuantity : "10"
+                itemName : "Chocolate",
+                itemQuantity : "6"
             }
         ];
         var itemsBought = [];
